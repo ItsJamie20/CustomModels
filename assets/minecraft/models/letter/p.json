@@ -1,0 +1,52 @@
+{
+	"parent": "minecraft:block/cube",
+	"textures": {
+		"particle": "block/texture",
+		"1_0": "letters/p"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 7],
+			"to": [32, 32, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1_0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1_0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2, 0.25],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.25, 0.25],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [3.75, 2, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [3.75, 2, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.15, 0.15, 0.15]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"scale": [0.33, 0.33, 1]
+		},
+		"head": {
+			"translation": [0, 0, -5.5],
+			"scale": [0.3, 0.3, 1]
+		},
+		"fixed": {
+			"scale": [4, 4, 1]
+		}
+	}
+}

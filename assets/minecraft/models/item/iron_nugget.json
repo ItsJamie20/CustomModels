@@ -1,0 +1,34 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/iron_nugget"
+    },
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "letter/a" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "letter/b" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "letter/c" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "letter/d" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "letter/e" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "letter/f" },
+		{ "predicate": { "custom_model_data": 7 }, "model": "letter/g" },
+		{ "predicate": { "custom_model_data": 8 }, "model": "letter/h" },
+		{ "predicate": { "custom_model_data": 9 }, "model": "letter/i" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "letter/j" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "letter/k" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "letter/l" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "letter/m" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "letter/n" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "letter/o" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "letter/p" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "letter/q" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "letter/r" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "letter/s" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "letter/t" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "letter/u" },
+		{ "predicate": { "custom_model_data": 22 }, "model": "letter/v" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "letter/w" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "letter/x" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "letter/y" },
+		{ "predicate": { "custom_model_data": 26 }, "model": "letter/z" }
+	]
+}
