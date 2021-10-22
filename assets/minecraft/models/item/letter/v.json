@@ -2,7 +2,7 @@
 	"parent": "minecraft:block/cube",
 	"textures": {
 		"particle": "block/texture",
-		"1_0": "item/letters/v"
+		"1_0": "item/v"
 	},
 	"elements": [
 		{
