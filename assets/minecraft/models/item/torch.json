@@ -4,6 +4,9 @@
         "layer0": "minecraft:block/torch"
     },
 	"overrides": [
-		{ "predicate": { "custom_model_data": 3 }, "model": "item/fake_bedrock" }
+		{ "predicate": { "custom_model_data": 3 }, "model": "item/fake_bedrock" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "item/fake_end_portal" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "item/fake_end_portal2" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/fake_portal_frame" }
 	]
 }
