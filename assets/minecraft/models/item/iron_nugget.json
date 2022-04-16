@@ -29,7 +29,6 @@
 		{ "predicate": { "custom_model_data": 23 }, "model": "item/letters/w" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "item/letters/x" },
 		{ "predicate": { "custom_model_data": 25 }, "model": "item/letters/y" },
-		{ "predicate": { "custom_model_data": 26 }, "model": "item/letters/z" },
-		{ "predicate": { "custom_model_data": 42 }, "model": "item/mc" }
+		{ "predicate": { "custom_model_data": 26 }, "model": "item/letters/z" }
 	]
 }
