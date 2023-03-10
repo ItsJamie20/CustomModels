@@ -29,6 +29,8 @@
 		{ "predicate": { "custom_model_data": 23 }, "model": "item/letters/w" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "item/letters/x" },
 		{ "predicate": { "custom_model_data": 25 }, "model": "item/letters/y" },
-		{ "predicate": { "custom_model_data": 26 }, "model": "item/letters/z" }
+		{ "predicate": { "custom_model_data": 26 }, "model": "item/letters/z" },
+		{ "predicate": { "custom_model_data": 69 }, "model": "item/doug_statue" },
+		{ "predicate": { "custom_model_data": 420 }, "model": "item/jamie_statue" }
 	]
 }
